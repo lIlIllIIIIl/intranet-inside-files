@@ -1,7 +1,7 @@
 # intranet-inside-files
 Pour rapidement créer les fichiers de router & de packages
 
-## Installation
+## Installation et lancement
 `npm i && npm run `
 
 ## Utilisation
