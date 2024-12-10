@@ -1,0 +1,205 @@
+{
+  "InsideActivities": {
+    "package": "inside-core",
+    "path": "library/components/activities"
+  },
+  "InsideAdministration": {
+    "package": "inside-core",
+    "path": "administration"
+  },
+  "InsideAds": {
+    "package": "inside-ads",
+    "path": ""
+  },
+  "InsideAgenda": {
+    "package": "inside-agenda",
+    "path": ""
+  },
+  "InsideArchives": {
+    "package": "inside-core",
+    "path": "archives"
+  },
+  "InsideAuth": {
+    "package": "inside-core",
+    "path": "auth"
+  },
+  "InsideBasics": {
+    "package": "inside-core",
+    "path": "library/components/basics"
+  },
+  "InsideBirthdays": {
+    "package": "inside-birthdays",
+    "path": ""
+  },
+  "InsideBroadcasts": {
+    "package": "inside-core",
+    "path": "broadcasts"
+  },
+  "InsideCatalog": {
+    "package": "inside-catalog",
+    "path": ""
+  },
+  "InsideComments": {
+    "package": "inside-core",
+    "path": "comments"
+  },
+  "InsideCommons": {
+    "package": "inside-core",
+    "path": "library/components/commons"
+  },
+  "InsideCourses": {
+    "package": "inside-courses",
+    "path": ""
+  },
+  "InsideCustoms": {
+    "package": "inside-customs",
+    "path": ""
+  },
+  "InsideEdition": {
+    "package": "inside-core",
+    "path": "edition"
+  },
+  "InsideEvents": {
+    "package": "inside-events",
+    "path": "",
+    "routes": ["EventsCalendarPage", "EventPage", "EventSubscriptionPage"]
+  },
+  "InsideFaq": {
+    "package": "inside-faq",
+    "path": "",
+    "routes": ["FAQListingPage"]
+  },
+  "InsideFilters": {
+    "package": "inside-core",
+    "path": "filters"
+  },
+  "InsideForms": {
+    "package": "inside-core",
+    "path": "forms"
+  },
+  "InsideGed": {
+    "package": "inside-ged",
+    "path": "",
+    "routes": ["GedPage"]
+  },
+  "InsideJobs": {
+    "package": "inside-jobs",
+    "path": ""
+  },
+  "InsideLayouts": {
+    "package": "inside-core",
+    "path": "layouts"
+  },
+  "InsideLeave": {
+    "package": "inside-leave",
+    "path": ""
+  },
+  "InsideListing": {
+    "package": "inside-core",
+    "path": "library/components/listing"
+  },
+  "InsideListings": {
+    "package": "inside-core",
+    "path": "listings"
+  },
+  "InsideMaps": {
+    "package": "inside-core",
+    "path": "maps",
+    "routes": ["MapPage"]
+  },
+  "InsideMenus": {
+    "package": "inside-core",
+    "path": "menus"
+  },
+  "InsideMailings": {
+    "package": "inside-mailings",
+    "path": ""
+  },
+  "InsideNewcomers": {
+    "package": "inside-newcomers",
+    "path": ""
+  },
+  "InsideNews": {
+    "package": "inside-news",
+    "path": "",
+    "routes": ["NewsPage", "NewsListingPage"]
+  },
+  "InsideNotifications": {
+    "package": "inside-core",
+    "path": "notifications"
+  },
+  "InsideOrganizationalChart": {
+    "package": "inside-organizational-chart",
+    "path": ""
+  },
+
+  "InsideParagraphs": {
+    "package": "inside-core",
+    "path": "paragraphs"
+  },
+  "InsideQuizz": {
+    "package": "inside-quizz",
+    "path": ""
+  },
+  "InsideSearches": {
+    "package": "inside-core",
+    "path": "searches"
+  },
+  "InsideSlideshow": {
+    "package": "inside-core",
+    "path": "slideshow"
+  },
+  "InsideSocials": {
+    "package": "inside-socials",
+    "path": ""
+  },
+  "InsideStatistics": {
+    "package": "inside-statistics",
+    "path": ""
+  },
+  "InsideTeams": {
+    "package": "inside-teams",
+    "path": ""
+  },
+  "InsideToasters": {
+    "package": "inside-core",
+    "path": "toasters"
+  },
+  "InsideTools": {
+    "package": "inside-core",
+    "path": "tools",
+    "routes": ["ToolsPage"]
+  },
+  "InsideTranslations": {
+    "package": "inside-core",
+    "path": "translations"
+  },
+  "InsideTvs": {
+    "package": "inside-tvs",
+    "path": ""
+  },
+  "InsideUi": {
+    "package": "inside-core",
+    "path": "library/components/ui"
+  },
+  "InsideUsers": {
+    "package": "inside-core",
+    "path": "users"
+  },
+  "InsideUtils": {
+    "package": "inside-core",
+    "path": "library/components/utils"
+  },
+  "InsideWebpack": {
+    "package": "inside-core",
+    "path": "webpack"
+  },
+  "InsideWorkflows": {
+    "package": "inside-core",
+    "path": "workflows"
+  },
+  "InsideWysiwyg": {
+    "package": "inside-core",
+    "path": "wysiwyg"
+  }
+}
